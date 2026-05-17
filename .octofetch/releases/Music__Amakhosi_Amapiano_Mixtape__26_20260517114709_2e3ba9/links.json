@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9908",
+  "folder": "Music__Amakhosi_Amapiano_Mixtape__26_20260517114709_2e3ba9",
+  "base_name": "Music__Amakhosi_Amapiano_Mixtape__26_20260517114709_2e3ba9.mp3",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Asal44/MeDownloads1/releases/tag/co-releases-v1-9908",
+  "files": [
+    {
+      "name": "Music__Amakhosi_Amapiano_Mixtape__26_20260517114709_2e3ba9.mp3",
+      "url": "https://github.com/Asal44/MeDownloads1/releases/download/co-releases-v1-9908/Music__Amakhosi_Amapiano_Mixtape__26_20260517114709_2e3ba9.mp3",
+      "api_url": "https://api.github.com/repos/Asal44/MeDownloads1/releases/assets/422466445",
+      "id": 422466445,
+      "size": 30408482,
+      "download_count": 0
+    }
+  ]
+}
