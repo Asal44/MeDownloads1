@@ -1,0 +1,11 @@
+{
+  "destination": "drive",
+  "files": [
+    {
+      "name": "video.mpd",
+      "url": "https://drive.google.com/file/d/1WrjlEDCMKcNZT_82zieh2SMh3DvG9CCq/view?usp=drivesdk",
+      "id": "1WrjlEDCMKcNZT_82zieh2SMh3DvG9CCq",
+      "size": "9412"
+    }
+  ]
+}
